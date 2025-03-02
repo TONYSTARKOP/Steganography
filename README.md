@@ -12,7 +12,7 @@ A powerful Steganography tool that allows users to hide and extract secret messa
 
 🔹 Main Interface
 
-
+![Main UI](main-ui.png)
 
 🔹 Hiding a Message
 
