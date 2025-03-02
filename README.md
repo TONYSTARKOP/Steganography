@@ -6,7 +6,13 @@ A powerful Steganography tool that allows users to hide and extract secret messa
 
 ## 🚀 Features
 
-✅ Supports JPG, JPEG, and PNG images✅ Hide messages inside images securely✅ Extract hidden messages from images✅ Simple and user-friendly Tkinter GUI✅ Allows users to save images in different formats✅ Toggle message visibility in extraction mode✅ Fast and lightweight application
+✅ Supports JPG, JPEG, and PNG images
+✅ Hide messages inside images securely
+✅ Extract hidden messages from images
+✅ Simple and user-friendly Tkinter GUI
+✅ Allows users to save images in different formats
+✅ Toggle message visibility in extraction mode
+✅ Fast and lightweight application
 
 ## 📸 Screenshots
 
