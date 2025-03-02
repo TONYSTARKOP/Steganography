@@ -16,6 +16,10 @@ A powerful Steganography tool that allows users to hide and extract secret messa
 
 🔹 Hiding a Message
 
+![Hide Message](hidden.png)
+
+### 🔹 Extracting a Message  
+![Extract Message](extract.png)
 
 
 🔹 Extracting a Message
@@ -75,4 +79,3 @@ This project is **open-source** and available under the [MIT License](LICENSE).
 Want to improve this project? **Fork, star, and submit a pull request!**  
 If you like this project, don't forget to give it a ⭐ on GitHub! 🚀
 ```
-
